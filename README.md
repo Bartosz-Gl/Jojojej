@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jojojej
-- 👀 I’m interested in weird things as for IT guy
-- 🌱 I’m currently learning JAVA, C and C++
-- 💞️ I’m looking to collaborate on nothing rn.
+- 🌱 I’m currently learning JAVA and litle bit of C.
 - 📫 How to reach me: bartoszgl10@gmail.com
 
 <!---
